@@ -1,4 +1,4 @@
-### Hello World! 👋 
+### Hello, World! 👋 
 
 - 🔭 I’m currently looking for a job as [NodeJs back end developer]
 - 🌱 I’m currently learning Backend
