@@ -1,6 +1,6 @@
 ### Hello, World! 👋 
 
-- 🔭 I’m currently looking for a job as [NodeJs back end developer]
+- 🔭 I’m working as a Node.js dev
 - 🌱 I’m currently learning back end
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: vladncode@gmail.com
